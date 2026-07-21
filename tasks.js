@@ -23,7 +23,7 @@ const student = { name: 'Rahul', age: 21, course: 'BCA' };
 const { name, age, course } = student;
 
 
-// 4. Spread Operator
+// 5. Spread Operator
 
 const arr1 = [1, 2, 3];
 const arr2 = [4, 5, 6];
@@ -31,7 +31,7 @@ const arr3 = [...arr1, ...arr2];
 console.log(arr3);
 
 
-// 5. Destructuring
+// 6. Destructuring
 
 const student = {
     name: "Anu",
